@@ -1,7 +1,7 @@
 # Equinox
 All of your Environmental Updates at a single platform
 
-This project was built at DJACM Lines Of Code 2.0 hackathon
+This project was built at DJACM Lines Of Code 2.0 Hackathon.
 
 Team name: HeadSpaceCoders
 <br>
