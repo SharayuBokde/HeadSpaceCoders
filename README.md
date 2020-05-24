@@ -1,10 +1,10 @@
-# HeadSpaceCoders
 # Equinox
 All of your Environmental Updates at a single platform
 
 This project was built at DJACM Lines Of Code 2.0 hackathon
 
-Team:
+Team name: HeadSpaceCoders
+Members:
 <ul>
   <li>Sakshi Patil</li>
   <li>Samiksha Patil</li>
@@ -15,8 +15,8 @@ Team:
 Technologies we used
 <ul>
   <li>Django Web Framework</li>
-  <li></li>
-  <li></li>
+  <li>PostgreSQL</li>
+  <li>Python</li>
   <li>Front-end : Bootstrap, CSS, HTML5, Javascript</li>
 </ul>
 
