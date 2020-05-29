@@ -27,7 +27,15 @@ happening and one is intrested in.</p>
 
 Images:
 <h3 align="center"><img src="HeadSpace Coders/1.png" height=500 width=auto></h3>
+
+
 <h3 align="center"><img src="HeadSpace Coders/2.png" height=500 width=auto></h3>
+
+
 <h3 align="center"><img src="HeadSpace Coders/3.png" height=500 width=auto></h3>
+
+
 <h3 align="center"><img src="HeadSpace Coders/4.png" height=500 width=auto></h3>
+
+
 <h3 align="center"><img src="HeadSpace Coders/5.png" height=500 width=auto></h3>
