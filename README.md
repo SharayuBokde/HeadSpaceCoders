@@ -18,7 +18,12 @@ Technologies we used
   <li>Django Web Framework</li>
   <li>PostgreSQL</li>
   <li>Python</li>
-  <li>Front-end : Bootstrap, CSS, HTML5, Javascript</li>
+  <ul>Front-end : 
+    <li>Bootstrap</li>
+    <li>CSS</li>
+    <li>HTML5</li>
+    <li>Javascript</li>
+  </ul>
 </ul>
 
 <b>The problem Equinox solves</b>
