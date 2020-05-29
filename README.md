@@ -18,7 +18,7 @@ Technologies we used
   <li>Django Web Framework</li>
   <li>PostgreSQL</li>
   <li>Python</li>
-  Front-end : 
+  <li>Front-end :</li>
   <ul>
     <li>Bootstrap</li>
     <li>CSS</li>
